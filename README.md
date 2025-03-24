@@ -56,7 +56,7 @@ The **University Management System** is a Java application that models the perso
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/university-management-system.git
+   git clone https://github.com/HChristopherNaoyuki/university-management-system-java.git
    ```
 2. Navigate to the project directory:
    ```bash
