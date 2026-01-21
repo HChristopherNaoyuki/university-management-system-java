@@ -119,9 +119,7 @@ Example output includes name, address, contact information, status/rank/title, s
 
 You can extend the test class or create your own main program to experiment with additional objects and behavior.
 
-## Disclaimer
-
-DISCLAIMER  
+## DISCLAIMER
 
 UNDER NO CIRCUMSTANCES SHOULD IMAGES OR EMOJIS BE INCLUDED DIRECTLY IN THE README FILE. 
 ALL VISUAL MEDIA, INCLUDING SCREENSHOTS AND IMAGES OF THE APPLICATION, MUST BE STORED IN 
